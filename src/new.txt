@@ -2,3 +2,6 @@ This is a new text document.
 This text is added by jerry.
 
 Testing of stash.
+
+
+Just some text added
